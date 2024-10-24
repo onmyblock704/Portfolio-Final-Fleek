@@ -36,7 +36,7 @@ const Projects = () => {
                     <p>Enjoy!
                     </p>
 
-                    <a href=" https://theinfamousdev.com/" target="_blank" className="button">Site</a>
+                    <a href="https://onmyblock704.github.io/Shoe-Store-With-Advanced-Animations-Functionalities/ " target="_blank" className="button">Site</a>
                     <a href="https://github.com/onmyblock704/Shoe-Store-With-Advanced-Animations-Functionalities" target="_blank" className="button">Code</a>
                 </div>
             </div>
